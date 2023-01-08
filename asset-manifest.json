@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.59e7e1f5.css",
+    "main.js": "/static/js/main.7fdb602b.js",
+    "static/media/background.jpg": "/static/media/background.a63ffa6e44696a61ebc2.jpg",
+    "static/media/mockup_mobile.png": "/static/media/mockup_mobile.d6baf0bf572d6891d9f6.png",
+    "static/media/circle_logo_final.png": "/static/media/circle_logo_final.efd3e867862e5365ad8e.png",
+    "static/media/SAR.png": "/static/media/SAR.95a16a03c131e6d9cc5a.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.59e7e1f5.css",
+    "static/js/main.7fdb602b.js"
+  ]
+}
